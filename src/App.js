@@ -1,24 +1,19 @@
-import logo from './logo.svg';
+import React from "react";
+import { Route, Routes } from "react-router-dom";
 import './App.css';
+import Inventory from "./components/Inventory.jsx";
+import NewLaptop from "./components/NewLaptop.jsx";
+import NewPhone from "./components/NewPhone.jsx";
+import index from "./components/index.html";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes>
+      <Route exact path="/" element={<LandingPage/>} />
+      <Route exact path="/equipo/nuevo" element={<Inventory/>} />
+      <Route exact path="/equipo/nuevo/laptop" element={<NewLaptop/>} />
+      <Route exact path="/equipo/nuevo/telefono" element={<NewPhone/>} />
+    </Routes>
   );
 }
 

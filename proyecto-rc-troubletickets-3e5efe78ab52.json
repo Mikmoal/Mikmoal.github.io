@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proyecto-rc-troubletickets",
+  "private_key_id": "3e5efe78ab52d2e7644955133ce42f70286a5f48",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmk4czoxxW2mkc\nOv5A8DzBNxo3ZbPqKLEgz68vzLAwuaZtJ5Gvr9ZseQWvg5+Xxsmb6Lo+00I8STdY\nNLsqOw7prkoL7nnUe9Bl5Wq97x4wQa0hajZURDPnleesBaKr23euEsNOLj3gnsc+\nesGC4QCZWVXe59ZdMHPsxm98hb7zIhaXXyj00INQLl/rUirw3VpUfYxN3pKnfNjY\nQatN1bwlpBNYCHtbXB+5Gvmu2/oht7bvpLGjK7DrEbTZaE+rwTUdky8/RTHhqAFI\nysuYnnn1VxgUHqsNkyaUwzenm9rBgS8t2atgdthTN2lyuT9Ir0vfChn/5Gsd5gTl\n/yAPnDUBAgMBAAECggEABo26fZe9r0NikLZ8UqO8dMGa8t/eeYPUDDRIu3rY2gZ6\nsnq0xjcriFwlbmehcoA+ZhLqYhata7s1ITjZ4o6/a0+jswOeMphdB55o7EPN/BxX\nGCR1xL4axBtVBRCVaNb2ok8O9Ol6Qy33dj7UuMh9JtSFGRVKQ+yfF4tGhi+FeQHe\nc5Gr5mNzxCqS+oMQkmktuTPRdQ5VE51RK8BsD/p4+qro86NiMcUrqYcyt7G7zqnq\nAjPP4irCyJNYE4c4dB4dO85piUxs+UDmXRLOu/cTr4FpraUt88FRNxrYHWhBk/ZS\nIU9MGQzW0zz7tlmezL209+sTlxRB1QUtpnj4/PieDQKBgQDgimzdTNVJ7vYU6xKT\nssV2kX6OemYlPN7XjNd2Fmtuc77dN3MLxm54B4sLPCRwy/r9YZESaqEqFHDOpyXP\nYYbH9PoKT6TDgycL4IIFLIK2NFSgyoT+DutwvS1bi6GN411H7d6OCvMfUHImEYNl\nz2cKhpuymtY85W/C9wOwNrEMywKBgQC96hlskgS9ezLnKwzco2c70XsBFisgs91m\nE5YGe/ff1DPMTkACqiripGnovihGVapju4nrP0HFCuzNSdTy38fUm4jpntrTjvtQ\n7DQHhO8xH2fuc9Moy7kv/fXYyzGPov2OTHLMSGMDc/JJchHr9jCGzBgaVXuWagha\nZHIbpRL34wKBgCNfKw8hj2f6MOHStjZ2Lw0ilmEzfuvWzvP9x+NeXMYljaejmIf+\nVmCqL4kxjDwIph1MRWI1UfYjCjJDun0Uy/qr6Me/DCGQg5InZ9QQ0vaI/9vki1bK\nWuSDqKWHNYf4jTVLj4eoyevg7Fp638wmBAFwew6DvcQSEK0R5I7ZzsJJAoGAI+jn\n9ceGbe2lqmBRhka/dmgdwg7XCM/5xRte+srmC8SsJq2FHPvgMAq2m/OY2fPIzCLh\n6UGExiVSsV6MjYAS4Pin4sTOy8H1c0+2ZtWUBM3TcRslikk7Mv/qRJvnOymumAGM\nk2P8lOKPpaOUD/H1KwfcZt5TCBX0jmL/0IpeE9ECgYBW/qf7ZNJ4QzakvZd7+uaC\neOy2CrFsR274BA9R5UXa+lLAZpBLgROrG5OrXUayJyyavU1Goka4rwkHQ5tElLRV\nS2fvfMkWpwfd9O5uX75xlqeOO1DJziVkkMXxQC836iM8CTrp7m5sWfYzik4a5udV\niSzWdL/E91JkQfueXwyysg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "proyecto-rc-troubletickets@appspot.gserviceaccount.com",
+  "client_id": "114940136393395636956",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/proyecto-rc-troubletickets%40appspot.gserviceaccount.com"
+}
